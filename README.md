@@ -43,7 +43,18 @@ List of Unreal Engine resources
 [Unreal Engine Tutorial RPG Series by Crystal Clear Game Studios(150 episodes)](https://www.youtube.com/playlist?list=PLVcVWC1bK3YV1y98Wa_DSv3ZzhDiQh480)
 
 ### Vehicles 
+
+[AI Car Tutorial](https://www.youtube.com/playlist?list=PLSc29g4OjKUNImPwDA4S2B8lr-xX3zpax)
+
+[Car Tutorial](https://www.youtube.com/watch?v=akOMT274IdY&list=PLSc29g4OjKUPx2Rp4j7JzhqLlloHr1wte)
+
 [Replicated Vehicles with Passengers](https://www.youtube.com/watch?v=R6do0_Surao&list=PL0jFyH3meZDMQ92dVys4CocMKSgqv89yz&pp=iAQB)
+
+[Train Tutorial](https://www.youtube.com/playlist?list=PLSc29g4OjKUNT2_9nXbKxGEMzq4LnlvNh)
+
+[Truck Tutoial](https://www.youtube.com/playlist?list=PLSc29g4OjKUM_CNe4b3jpzFyo-Cb9FkyS)
+
+
 
 [Multiplayer Vehicle Component(With Passengers) || Free Download](https://www.youtube.com/watch?v=aSclsAMZjqY&list=PL0jFyH3meZDM7pgfnF47l7n0zyaTdwGrh&index=1&pp=iAQB)
 
