@@ -20,6 +20,13 @@ List of Unreal Engine resources
 ### Animation
 [Animated Replication MasterClass in 15 Minutes ](https://www.youtube.com/watch?v=aHNgHlBidz8&list=PL0jFyH3meZDOePBdSjqBeWg-W_3kys_R4)
 
+### Building System
+[Build System](https://www.youtube.com/playlist?list=PL-uCmUFGgK1ZvDr38ME989dZbHhdWpDHa)
+
+[Base Building](https://www.youtube.com/playlist?list=PLGm9gBuuMTeuLQythBu61WK7qO31RRH7l)
+
+[Building Component](https://www.youtube.com/playlist?list=PLGm9gBuuMTeuLQythBu61WK7qO31RRH7l)
+
 ### City Builder
 
 [City Building Game](https://www.youtube.com/playlist?list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy)
