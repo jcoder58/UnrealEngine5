@@ -20,6 +20,10 @@ List of Unreal Engine resources
 ### Animation
 [Animated Replication MasterClass in 15 Minutes ](https://www.youtube.com/watch?v=aHNgHlBidz8&list=PL0jFyH3meZDOePBdSjqBeWg-W_3kys_R4)
 
+### City Builder
+
+[City Building Game](https://www.youtube.com/playlist?list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy)
+
 ### Landscape
 [UE5 Landscape Beginner Tutorial](https://www.youtube.com/playlist?list=PL8_QdDwbYqgSl0iZv_0CPqS1dBslShAVs)
 
