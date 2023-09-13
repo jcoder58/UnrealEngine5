@@ -31,8 +31,23 @@ List of Unreal Engine resources
 
 [City Building Game](https://www.youtube.com/playlist?list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy)
 
+### Grid
+
+[Creating a HexGrid System in Unreal Engine](https://www.youtube.com/watch?v=A-1O4BHdkfA)
+
+[Optimized Grid Tutorial](https://www.youtube.com/watch?v=Q4AOmT9aOEM)
+
+[ Snap to Grid in Unreal Engine 4](https://www.youtube.com/watch?v=H8DI0I0L54U)
+
 ### Landscape
 [UE5 Landscape Beginner Tutorial](https://www.youtube.com/playlist?list=PL8_QdDwbYqgSl0iZv_0CPqS1dBslShAVs)
+
+### Math
+[WTF Is? Make Pulsating Value](https://www.youtube.com/watch?v=Ei4ipEFSB2s)
+
+[WTF Is? Lerp Nodes](https://www.youtube.com/watch?v=vLy047C8nKo)
+
+[WTF Is? Interpolation](https://www.youtube.com/watch?v=6k530nedc1g)
 
 ### Niagra (Particle Effects)
 [Learn Niagara in Unreal Engine 5](https://www.youtube.com/playlist?list=PL4G2bSPE_8ukxad33SzOBNrQja_sAnAoi)
@@ -41,6 +56,10 @@ List of Unreal Engine resources
 [Unreal Engine 5 RPG Tutorial Series (by Gorka Games) (48 episodes)](https://www.youtube.com/playlist?list=PLiSlOaRBfgkcPAhYpGps16PT_9f28amXi)
 
 [Unreal Engine Tutorial RPG Series by Crystal Clear Game Studios(150 episodes)](https://www.youtube.com/playlist?list=PLVcVWC1bK3YV1y98Wa_DSv3ZzhDiQh480)
+
+### Save Game
+
+[HTF do I? Use the SaveGame Object ](https://www.youtube.com/watch?v=_4usRrTiqak)
 
 ### Vehicles 
 
