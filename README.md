@@ -31,6 +31,11 @@ List of Unreal Engine resources
 
 [City Building Game](https://www.youtube.com/playlist?list=PLFYGCCDpMHmHJwhIRY6qNumAts--W8bTy)
 
+### Conveyor
+[Conveyor Belt BP](https://www.youtube.com/watch?v=O2heIgW8qhA&pp=ygUbdW5yZWFsIGVuZ2luZSBjb252ZXlvciBiZWx0)
+
+[Making a Simple Converyor Volume ](https://www.youtube.com/watch?v=aqRUe7pm4Ok&pp=ygUbdW5yZWFsIGVuZ2luZSBjb252ZXlvciBiZWx0)
+
 ### Grid
 
 [Creating a HexGrid System in Unreal Engine](https://www.youtube.com/watch?v=A-1O4BHdkfA)
