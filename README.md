@@ -54,6 +54,10 @@ List of Unreal Engine resources
 
 [WTF Is? Interpolation](https://www.youtube.com/watch?v=6k530nedc1g)
 
+### Misc
+
+[Automatic Warehouse system with trilateral forklifts for Unreal Engine](https://www.youtube.com/watch?v=gFzHn0aNgHk&t=300s)
+
 ### Niagra (Particle Effects)
 [Learn Niagara in Unreal Engine 5](https://www.youtube.com/playlist?list=PL4G2bSPE_8ukxad33SzOBNrQja_sAnAoi)
 
