@@ -54,6 +54,10 @@ List of Unreal Engine resources
 
 [WTF Is? Interpolation](https://www.youtube.com/watch?v=6k530nedc1g)
 
+### Melee Combat
+
+[Melee Combat](https://www.youtube.com/playlist?list=PLg8qOa5gnZ3Drc4eFqiAgxbA9i6-Wwlj8)
+
 ### Misc
 
 [Automatic Warehouse system with trilateral forklifts for Unreal Engine](https://www.youtube.com/watch?v=gFzHn0aNgHk&t=300s)
@@ -70,19 +74,23 @@ List of Unreal Engine resources
 
 [HTF do I? Use the SaveGame Object ](https://www.youtube.com/watch?v=_4usRrTiqak)
 
+### Tornados
+
+[Tornado How-to Play List](https://www.youtube.com/playlist?list=PLwMiBtF6Wzsq5nAnyHHv9NFfpmQSrv0o8)
+
 ### Vehicles 
 
 [AI Car Tutorial](https://www.youtube.com/playlist?list=PLSc29g4OjKUNImPwDA4S2B8lr-xX3zpax)
 
 [Car Tutorial](https://www.youtube.com/watch?v=akOMT274IdY&list=PLSc29g4OjKUPx2Rp4j7JzhqLlloHr1wte)
 
+[Destructable Vehicles](https://www.youtube.com/playlist?list=PLg8qOa5gnZ3AISs4iJpM4WixBh8wwhMr_)
+
 [Replicated Vehicles with Passengers](https://www.youtube.com/watch?v=R6do0_Surao&list=PL0jFyH3meZDMQ92dVys4CocMKSgqv89yz&pp=iAQB)
 
 [Train Tutorial](https://www.youtube.com/playlist?list=PLSc29g4OjKUNT2_9nXbKxGEMzq4LnlvNh)
 
 [Truck Tutoial](https://www.youtube.com/playlist?list=PLSc29g4OjKUM_CNe4b3jpzFyo-Cb9FkyS)
-
-
 
 [Multiplayer Vehicle Component(With Passengers) || Free Download](https://www.youtube.com/watch?v=aSclsAMZjqY&list=PL0jFyH3meZDM7pgfnF47l7n0zyaTdwGrh&index=1&pp=iAQB)
 
