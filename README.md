@@ -36,6 +36,13 @@ List of Unreal Engine resources
 
 [Making a Simple Converyor Volume ](https://www.youtube.com/watch?v=aqRUe7pm4Ok&pp=ygUbdW5yZWFsIGVuZ2luZSBjb252ZXlvciBiZWx0)
 
+
+### Enhanced Input
+
+[Creating Character Movement With The New Enhanced Axis Mappings](https://www.youtube.com/watch?v=Z9zEEY7dGaM)
+
+[Enhanced Input](https://www.youtube.com/watch?v=qOh0b_-LMkE)
+
 ### Grid
 
 [Creating a HexGrid System in Unreal Engine](https://www.youtube.com/watch?v=A-1O4BHdkfA)
