@@ -54,6 +54,11 @@ List of Unreal Engine resources
 ### Landscape
 [UE5 Landscape Beginner Tutorial](https://www.youtube.com/playlist?list=PL8_QdDwbYqgSl0iZv_0CPqS1dBslShAVs)
 
+
+### Maps
+[World & Minimap with Navigation, Markers and more](https://www.youtube.com/watch?v=1PEjHB7kRGc)
+
+
 ### Math
 [WTF Is? Make Pulsating Value](https://www.youtube.com/watch?v=Ei4ipEFSB2s)
 
