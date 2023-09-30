@@ -43,6 +43,9 @@ List of Unreal Engine resources
 
 [Enhanced Input](https://www.youtube.com/watch?v=qOh0b_-LMkE)
 
+### Factory Game
+
+[Create a Factory style Game](https://www.youtube.com/playlist?list=PLwII_CRPWTev0wtiCFrnsGesCB7I-qLB8)
 ### Grid
 
 [Creating a HexGrid System in Unreal Engine](https://www.youtube.com/watch?v=A-1O4BHdkfA)
