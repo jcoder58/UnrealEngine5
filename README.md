@@ -38,6 +38,8 @@ List of Unreal Engine resources
 
 [How to Move MULTIPLE Actors Along a Spine in Unreal](https://www.youtube.com/watch?v=I7vg-WXBtXY)
 
+[How to Make a Conveyor Belt Using Splines in UE4](https://www.youtube.com/watch?v=LZ7l7VKdgqY)
+
 
 ### Enhanced Input
 
