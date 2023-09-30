@@ -40,6 +40,7 @@ List of Unreal Engine resources
 
 [How to Make a Conveyor Belt Using Splines in UE4](https://www.youtube.com/watch?v=LZ7l7VKdgqY)
 
+[UE4 l Creating Simple Conveyor Belt](https://www.youtube.com/watch?v=eg9tNjpAieQ)
 
 ### Enhanced Input
 
@@ -50,6 +51,7 @@ List of Unreal Engine resources
 ### Factory Game
 
 [Create a Factory style Game](https://www.youtube.com/playlist?list=PLwII_CRPWTev0wtiCFrnsGesCB7I-qLB8)
+
 ### Grid
 
 [Creating a HexGrid System in Unreal Engine](https://www.youtube.com/watch?v=A-1O4BHdkfA)
