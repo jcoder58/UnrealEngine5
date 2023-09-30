@@ -42,6 +42,8 @@ List of Unreal Engine resources
 
 [UE4 l Creating Simple Conveyor Belt](https://www.youtube.com/watch?v=eg9tNjpAieQ)
 
+[Conveyor Belts!](https://www.youtube.com/watch?v=yq7Obrk-tbA)
+
 ### Enhanced Input
 
 [Creating Character Movement With The New Enhanced Axis Mappings](https://www.youtube.com/watch?v=Z9zEEY7dGaM)
