@@ -20,6 +20,10 @@ List of Unreal Engine resources
 ### Animation
 [Animated Replication MasterClass in 15 Minutes ](https://www.youtube.com/watch?v=aHNgHlBidz8&list=PL0jFyH3meZDOePBdSjqBeWg-W_3kys_R4)
 
+
+### Battle Royale Implementation
+[Ultimate Battle Royale Course](https://www.youtube.com/watch?v=TLV3x3WEpjE&list=PL0jFyH3meZDP_WC2G4wpKY7zwy4Lop1yq)
+
 ### Building System
 [Build System](https://www.youtube.com/playlist?list=PL-uCmUFGgK1ZvDr38ME989dZbHhdWpDHa)
 
@@ -119,6 +123,7 @@ List of Unreal Engine resources
 
 [Kinemetic Veehicles (car,helicopter, motorbike,tanke)[https://www.youtube.com/watch?v=nQ9pN525xvM&list=PLdJTb2JHbl1DjvFIP0tBIR3am-qCVPO2v&index=34]
 
+### Voxels
 
-### Battle Royale Implementation
-[Ultimate Battle Royale Course](https://www.youtube.com/watch?v=TLV3x3WEpjE&list=PL0jFyH3meZDP_WC2G4wpKY7zwy4Lop1yq)
+[UE5 Voxel Terrain](https://www.youtube.com/playlist?list=PLgji-9GMuqkK7EwUCVCuc2w3En1bPo5rA)
+
