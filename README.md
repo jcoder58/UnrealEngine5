@@ -101,6 +101,10 @@ List of Unreal Engine resources
 
 [HTF do I? Use the SaveGame Object ](https://www.youtube.com/watch?v=_4usRrTiqak)
 
+### Tactial Combat
+
+[Turn Based Tactical Combat - Unreal Engine 4 Tutorial](https://www.youtube.com/playlist?list=PLBLmKCAjA25CKFIvmaA8y3tsX_URgkX4O)
+
 ### Tornados
 
 [Tornado How-to Play List](https://www.youtube.com/playlist?list=PLwMiBtF6Wzsq5nAnyHHv9NFfpmQSrv0o8)
