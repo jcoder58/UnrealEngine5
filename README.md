@@ -48,6 +48,9 @@ List of Unreal Engine resources
 
 [Conveyor Belts!](https://www.youtube.com/watch?v=yq7Obrk-tbA)
 
+### Editor
+[Editor: Scriptable Tools Basics](https://www.youtube.com/watch?v=xWxtxS2jADo)
+
 ### Enhanced Input
 
 [Creating Character Movement With The New Enhanced Axis Mappings](https://www.youtube.com/watch?v=Z9zEEY7dGaM)
